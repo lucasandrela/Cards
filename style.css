@@ -81,3 +81,8 @@ footer{
     margin-left: 40%;
 }
 
+.card:hover {
+    transform: scale(1.10);
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.3);
+    background-color: #2d2ba9;
+}
